@@ -32,9 +32,9 @@ namespace _12312312
             // add cai db vao day
         }
 
-        private void lblThongTinMK_Click(object sender, EventArgs e)
+        private void lblEmail_Click(object sender, EventArgs e)
         {
-            // add db mat khau
+            // add db email
         }
     }
 }

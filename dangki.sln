@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11018.127 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dangki", "dangki.csproj", "{FB09131C-9A5E-4299-AF38-9E60968A2D32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB09131C-9A5E-4299-AF38-9E60968A2D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB09131C-9A5E-4299-AF38-9E60968A2D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB09131C-9A5E-4299-AF38-9E60968A2D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB09131C-9A5E-4299-AF38-9E60968A2D32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87ED25DB-B3BD-4523-951D-2E9C541DD6A7}
+	EndGlobalSection
+EndGlobal

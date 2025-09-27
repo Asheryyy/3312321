@@ -20,6 +20,7 @@ namespace baitap1
 
         private void btnĐK_Click(object sender, EventArgs e)
         {
+            // 12321
             frmĐK f = new frmĐK();
             this.Hide();
             f.ShowDialog();
@@ -31,11 +32,11 @@ namespace baitap1
         {
             if (txtDN.Text == "admin" && txtMK.Text == "admin") // thay admin = tai khoan tren database
             {
-                MessageBox.Show("Đăng nhập thành công");
+                MessageBox.Show("Đăng nhập thành công !");
             }
             else
             {
-                MessageBox.Show("Sai tài khoản hoặc mật khẩu");
+                MessageBox.Show("Sai tài khoản hoặc mật khẩu , vui lòng nhập lại");
             }
         }
 
